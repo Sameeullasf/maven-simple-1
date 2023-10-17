@@ -26,6 +26,7 @@ and the dependency:
 	</dependency>
 echo "hello"
 echo"new commit"
+echo"github hook"
 
 
 ```
